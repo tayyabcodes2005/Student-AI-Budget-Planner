@@ -155,7 +155,6 @@ node server.js
 http://localhost:5000
 ```
 
----
 
 # Future Improvements
 
@@ -167,16 +166,6 @@ http://localhost:5000
 - Expense Categories
 - Export Budget Report as PDF
 
----
-
-# Team Members
-
-- Your Name
-- Team Member 2
-- Team Member 3
-- Team Member 4
-
----
 
 # License
 
