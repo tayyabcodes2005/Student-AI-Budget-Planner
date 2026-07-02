@@ -1,0 +1,6 @@
+{
+  "name": "AI Budget Planner",
+  "description": "A modern monthly budget planner for students with AI-powered spending analysis, savings advice, and motivational tips using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

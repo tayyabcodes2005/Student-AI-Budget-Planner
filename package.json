@@ -1,0 +1,16 @@
+{
+  "name": "ai-budget-planner",
+  "version": "1.0.0",
+  "description": "A modern monthly budget planner for students with AI-powered spending analysis, savings advice, and motivational tips using Gemini AI.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "@google/genai": "^2.4.0",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2"
+  }
+}
